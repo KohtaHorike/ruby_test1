@@ -1,0 +1,3 @@
+# 「.AppleDouble」フォルダを除外
+vendor/*
+
